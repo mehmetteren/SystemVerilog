@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/pine1/CS223_Project/CS223_Project.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/pine1/CS223_Project/CS223_Project.srcs/sim_1/new/tb.sv,1651927761,systemVerilog,,,,tb,,uvm,,,,,,
+C:/Users/pine1/CS223_Project/CS223_Project.srcs/sources_1/new/processor.sv,1651928192,systemVerilog,,C:/Users/pine1/CS223_Project/CS223_Project.srcs/sim_1/new/tb.sv,,IM;displayer;memory;processor;register_file,,uvm,,,,,,
