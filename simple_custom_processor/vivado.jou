@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Tue Nov 15 22:31:22 2022
+# Process ID: 5096
+# Current directory: C:/Users/pine1/CS223_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13284 C:\Users\pine1\CS223_Project\CS223_Project.xpr
+# Log file: C:/Users/pine1/CS223_Project/vivado.log
+# Journal file: C:/Users/pine1/CS223_Project\vivado.jou
+# Running On: DESKTOP-15C77GH, OS: Windows, CPU Frequency: 1114 MHz, CPU Physical cores: 4, Host memory: 8382 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/pine1/CS223_Project/CS223_Project.xpr
+update_compile_order -fileset sources_1
