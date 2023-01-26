@@ -1,0 +1,1 @@
+couple of combinational and sequential circuits (FSMs) designed in Vivado using SystemVerilog
