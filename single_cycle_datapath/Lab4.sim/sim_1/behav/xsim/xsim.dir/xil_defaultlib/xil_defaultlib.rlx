@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/pine1/Desktop/CS224/Lab4/Lab4.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/pine1/Desktop/CS224/Lab4/Lab4.srcs/sim_1/new/mips_tb.sv,1668424965,systemVerilog,,,,mips_tb,,uvm,,,,,,
+C:/Users/pine1/Desktop/CS224/Lab4/Lab4.srcs/sources_1/new/mips.sv,1668533276,systemVerilog,,C:/Users/pine1/Desktop/CS224/Lab4/Lab4.srcs/sim_1/new/mips_tb.sv,,adder;alu;aludec;controller;datapath;dmem;flopr;imem;maindec;mips;mux2;regfile;signext;sl2;top,,uvm,,,,,,
