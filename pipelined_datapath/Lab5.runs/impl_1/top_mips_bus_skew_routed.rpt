@@ -1,0 +1,15 @@
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Dec  1 12:05:19 2022
+| Host         : DESKTOP-15C77GH running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file top_mips_bus_skew_routed.rpt -pb top_mips_bus_skew_routed.pb -rpx top_mips_bus_skew_routed.rpx
+| Design       : top_mips
+| Device       : 7a35t-csg324
+| Speed File   : -3  PRODUCTION 1.23 2018-06-13
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+
